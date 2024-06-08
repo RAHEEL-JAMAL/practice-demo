@@ -1,4 +1,2 @@
 # practice-demo
-this is my first repository
-<br>
-updated after br
+sooory all dat is deleted in vs code in terminal kindly change it fron the past ok.
